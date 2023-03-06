@@ -1,4 +1,4 @@
-baseurl: '/lq-tennis/'
+baseurl: '/lq-tennis'
 permalink: pretty
 title: 'Lake Quivira Tennis Association'
 
@@ -11,26 +11,35 @@ logo:
   desktop_width: "120px"
 
 home: 
-  limit_services: 6
+  limit_events: 6
 
 collections:
-  services:
+  events:
     output: true
     sort_by: weight
-  team:
+  leagues:
     output: true
+    sort_by: weight
+  teams:
+    output: true
+    sort_by: weight
 
 defaults:
   - scope:
       path: ""
-      type: "services"
+      type: "events"
     values:
-      layout: "service"
+      layout: "events"
   - scope:
       path: ""
-      type: "team"
+      type: "leagues"
     values:
-      layout: "team"
+      layout: "leagues"
+  - scope:
+      path: ""
+      type: "teams"
+    values:
+      layout: "teams"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed

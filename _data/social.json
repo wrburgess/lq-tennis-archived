@@ -1,12 +1,17 @@
 [
   {
-    "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "image": "images/social/github.svg"
+    "name": "Facebook",
+    "link": "https://www.facebook.com/groups/lqtennis",
+    "image": "images/social/facebook.svg"
   },
   {
-    "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
-    "image": "images/social/twitter.svg"
+    "name": "Instagram",
+    "link": "https://instagram.com/lq.tennis",
+    "image": "images/social/instagram.svg"
+  },
+  {
+    "name": "Lake Quivira",
+    "link": "https://www.lakequivira.org",
+    "image": "images/social/github.svg"
   }
 ]

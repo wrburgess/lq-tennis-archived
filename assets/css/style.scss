@@ -58,8 +58,10 @@ $sub-footer-text-color: $white;
 
 // Pages
 @import "pages/page-home";
+@import "pages/page-board";
+@import "pages/page-events";
+@import "pages/page-leagues";
 @import "pages/page-teams";
-@import "pages/page-service";
 
 body {
   font-size: 16px;
