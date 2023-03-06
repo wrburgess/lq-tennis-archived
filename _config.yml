@@ -1,6 +1,6 @@
-baseurl: '/'
+baseurl: '/lq-tennis/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Lake Quivira Tennis Association'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
