@@ -1,8 +1,7 @@
 ---
 title: About
 layout: page
-description: About
-permalink: "/about"
+description: About the LQTA
 bodyClass: page-about
 ---
 

@@ -1,10 +1,8 @@
 ---
 title: Board of Directors
-layout: board
-description: Board of Directors
-permalink: "/board"
-intro_image_absolute: true
-intro_image_hide_on_mobile: false
+layout: page
+description: The volunteers that make the LQTA work!
+bodyClass: page-board
 ---
 
 * President, Randy Burgess
