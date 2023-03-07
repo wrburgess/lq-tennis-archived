@@ -1,21 +1,21 @@
 main:
   - name: "Events"
-    url: "/events"
+    url: "/events/"
     weight: 2
   - name: "Leagues"
-    url: "/leagues"
+    url: "/leagues/"
     weight: 3
   - name: "Teams"
-    url: "/teams"
+    url: "/teams/"
     weight: 4
   - name: "Board"
-    url: "/board"
+    url: "/board/"
     weight: 4
   - name: "About"
-    url: "/about"
+    url: "/about/"
     weight: 5
   - name: "Contact"
-    url: "/contact"
+    url: "/contact/"
     weight: 6
 
 footer:
@@ -23,5 +23,5 @@ footer:
     url: "/"
     weight: 1
   - name: "Contact"
-    url: "/contact"
+    url: "/contact/"
     weight: 2
