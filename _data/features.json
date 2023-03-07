@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Getting Started",
+    "description": "Follow these steps to get involved with Tennis at Lake Quivira",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Ramping Up",
+    "description": "Training with Coach KJ is the best way to improve your skills.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Compete!",
+    "description": "Join our internal leagues or one of the various LQ tennis teams",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
