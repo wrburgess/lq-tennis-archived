@@ -1,16 +1,14 @@
 ---
 title: Board of Directors
-layout: teams
-description: Board
+layout: board
+description: Board of Directors
 permalink: "/board"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Board of Directors
-
 * President, Randy Burgess
-* Vice President, Brooke Corchoran
+* Vice President, Brooke Corchora  n
 * Treasurer, Paulette Preib
 * Membership, Leslie Treas
 * Member, Tom Rosewicz
