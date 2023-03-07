@@ -1,12 +1,21 @@
 ---
-title: Board of
+title: Board of Directors
 layout: teams
 description: Board
-permalink: "/board/"
+permalink: "/board"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
 # Meet The Board of Directors
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+* President, Randy Burgess
+* Vice President, Brooke Corchoran
+* Treasurer, Paulette Preib
+* Membership, Leslie Treas
+* Member, Tom Rosewicz
+* Member, Ronnie Rosewicz
+* Member, Krissi Wagner
+* Member, Mary Sandefur
+* Member, Christy Heller
+* Advisor, Kevin Jackson
